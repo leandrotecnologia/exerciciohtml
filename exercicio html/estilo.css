@@ -1,0 +1,28 @@
+h1{
+    color : blue ;
+    margin-left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id1_p{  margin-left: 20%;
+    color:rgb(240, 233, 233);
+    font-family:cursive;
+
+}
+
+#id2_p{  
+    margin-left: 10%;
+    color:rgb(240, 233, 233);
+    font-family:cursive;
+}
+h2{
+    
+    color: white;
+    font-family :'Courier New', Courier, monospace
+
+}
+table{
+     color : darkgray;
+    
+
+}
